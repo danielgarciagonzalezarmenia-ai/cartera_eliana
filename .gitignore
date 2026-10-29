@@ -37,3 +37,7 @@ Thumbs.db
 
 # Kotlin compiler sessions
 android/.kotlin/
+
+# APK versions (manual storage)
+apk_versiones/*.apk
+apk_versiones/*/
